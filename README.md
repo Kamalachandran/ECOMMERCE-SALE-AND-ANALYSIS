@@ -1,4 +1,4 @@
-# ECOMMERCE-SALE-AND-ANALYSIS-
+# ECOMMERCE-SALE-AND-ANALYSIS
 📌 Overview
 
 This project is an interactive sales analysis dashboard that helps visualize and analyze ecommerce data. It provides insights into sales performance, customer behavior, product trends, and regional distribution, enabling data-driven decision-making.
